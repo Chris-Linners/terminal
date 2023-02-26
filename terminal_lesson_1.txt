@@ -1,0 +1,8 @@
+cd - открыть папку
+cd .. - вернуться назад
+mkdir
+touch
+vim
+pwd
+rm
+mv
